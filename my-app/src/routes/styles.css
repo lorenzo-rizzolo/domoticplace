@@ -94,9 +94,15 @@ button:focus:not(:focus-visible) {
 .prodotto{
 	background-color: rgba(255, 255, 255, 0.515);
 	color: black;
-	width: 200px;
+	width: 250px;
 	text-align: center;
 	padding: 10px;
 	border: 2px solid white;
 	border-radius: 13px;
+	display: inline-block;
+}
+
+img{
+	width: 200px;
+	height: 200px;
 }
